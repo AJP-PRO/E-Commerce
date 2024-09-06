@@ -314,7 +314,7 @@ max-width: 100vw;
     flex-wrap: wrap;
 }
 
-.book L{
+.book {
     width: 25%;
     padding: 24px;
 }
